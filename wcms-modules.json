@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "themes": {
+        "theme-name": {
+            "name": "redline",
+            "repo": "https://github.com/Danjel003/redline/tree/master",
+            "zip": "https://github.com/Danjel003/redline/archive/master.zip",
+            "summary": "My sample theme",
+            "version": "2.0.0",
+            "image": "https://raw.githubusercontent.com/Danjel003/redline/master/preview.jpg"
+        }
+    }
+}
